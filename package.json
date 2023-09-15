@@ -28,7 +28,7 @@
     "eslint": "^5.12.1"
   },
   "dependencies": {
-    "gm": "^1.23.1",
+    "gm": "^1.25.0",
     "promise.waterfall": "^3.2.0"
   },
   "keywords": [
